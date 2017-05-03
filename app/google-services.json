@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "714937076344",
+    "firebase_url": "https://app-horario.firebaseio.com",
+    "project_id": "app-horario",
+    "storage_bucket": "app-horario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714937076344:android:bef77f13b9849e87",
+        "android_client_info": {
+          "package_name": "com.apphorario.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714937076344-to30tm5u87mnt95at4tdbp2s8a0f3m5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqtylwNyXtMsgt5dWt0hllk6XVmUd59p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
